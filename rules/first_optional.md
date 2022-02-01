@@ -3,13 +3,13 @@ Pick 3 aspects that the character is good at. The character will roll with advan
 You can substitute 1 aspect for a profession.
 
 #### Profession
-`10 + Profession BONUS >= DC  ──>  Profession LVL`
+`10 + Profession BONUS >= DC  ──>  Profession LVL`  
 Profession is levelled separately. To advance to the next level, accumulate XP up to the number of current profession level. Gain 1 Profession XP every time a successful check's DC is at least equal to 10 + Profession BONUS.  
 A character can try himself in any profession but will roll with disadvantage until he gets some formal training. If the character starts with a profession, it means he already had some training, starts at level 3 and can roll any profession checks without disadvantage.  
 For crafting materials need to be obtained. Any special materials or blueprints may contribute advantage or special bonuses to the check.
 
 #### Fortune
-`CHK > 20  ──>  1 FP for every point over`
+`CHK > 20  ──>  1 FP for every point over`  
 When you make a check, any point over 20 equals 1 Fortune Point (FP).  
 |   1 FP  |    3 FP   |   10 FP  |   50 FP  | 100 FP |
 |:-------:|:---------:|:--------:|:--------:|:------:|
