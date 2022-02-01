@@ -16,10 +16,10 @@
 ROLL:      └──────┴──────┘                       DC:       Trivial │   Easy   │  Normal │   Hard        Expert
            CF    AVG    CS                               └─────────┴──────────┴─────────┴─────────┘
            
-           RPG system with a single d20 and a very straightforward logic. Characters without any
-           bonuses can only beat a hard Difficulty Challenge, but someone with focus towards a
-           certain aspect can begin to triumph in more difficult, expert or even legendary level
-           tasks. A roll of 1 is a critical failure and a roll of 20 a critical success.
+           RPG system with a single d20 and a very simple premise. Characters without any bonuses
+           can only beat a Hard Difficulty Challenge, but someone with focus towards a certain
+           aspect can begin to triumph in more difficult, Expert or even Legendary level tasks.
+           A roll of 1 is a critical failure and a roll of 20 a critical success.
            Can be played in MONO (a kind of bird’s-eye), more traditional MULTI, or hybrid mode.
            
 
@@ -35,10 +35,10 @@ ROLL:      └──────┴──────┘                       D
 │             For example if another person is assisting in the task/action or if one is surrounded. │
 │                                                                                                    │
 │ LVL:        1 LVL  ──>  1 ATR BONUS                                                                │   Max 3*
-│             EXP: 10 + BONUS >= DC  ──>  10xLVL or Milestone                                        │   Max 10
+│             XP: 10 + BONUS >= DC  ──>  10xLVL or Milestone                                         │   Max 10
 │             Every level a character gains 1 VIT and one point to put towards raising an attribute. │
-│             To advance to the next level, accumulate 10 times the level experience points every    │
-│             time the check is at least equal to the DC, or reach a milestone in the story.         │
+│             To advance to the next level, accumulate 10 times the level XP. Gain 1 XP every time a │
+│             successful check's DC is at least equal to 10+BONUS, or reach a milestone in the story.│
 │                                                                                                    │
 │                                                                                                    │
 │                                                                                                    │
