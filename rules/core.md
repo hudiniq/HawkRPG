@@ -17,7 +17,7 @@ ROLL:      └──────┴──────┘                       D
            CF    AVG    CS                               └─────────┴──────────┴─────────┴─────────┘
            
            Minimalistic RPG system in favour of story progression. It has all basic attributes for
-           character building, magic and variety comes from effects and abilities on items and
+           character building. Magic and variety come from effects and abilities on items and
            consumables. Problem resolution by defeating a Difficulty Challenge, set by the referee.
            A roll of 1 is a critical failure and a roll of 20 a critical success.
            Can be played in MONO (a kind of bird’s-eye), more traditional MULTI, or hybrid mode.
