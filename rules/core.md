@@ -16,9 +16,9 @@
 ROLL:      └──────┴──────┘                       DC:       Trivial │   Easy   │  Normal │   Hard        Expert
            CF    AVG    CS                               └─────────┴──────────┴─────────┴─────────┘
            
-           RPG system with a single d20 and a very simple premise. Characters without any bonuses
-           can only beat a Hard Difficulty Challenge, but someone with focus towards a certain
-           aspect can begin to triumph in more difficult, Expert or even Legendary level tasks.
+           Minimalistic RPG system in favour of story progression. It has all basic attributes for
+           character building; magic and variety comes from effects and abilities on items and
+           consumables. Problem resolution by defeating a Difficulty Challenge, set by the referee.
            A roll of 1 is a critical failure and a roll of 20 a critical success.
            Can be played in MONO (a kind of bird’s-eye), more traditional MULTI, or hybrid mode.
            
@@ -37,9 +37,8 @@ ROLL:      └──────┴──────┘                       D
 │ LVL:        1 LVL  ──>  1 ATR BONUS                                                                │   Max 3*
 │             XP: 10 + BONUS >= DC  ──>  10xLVL or Milestone                                         │   Max 10
 │             Every level a character gains 1 VIT and one point to put towards raising an attribute. │
-│             To advance to the next level, accumulate 10 times the level XP. Gain 1 XP every time a │
-│             successful check's DC is at least equal to 10+BONUS, or reach a milestone in the story.│
-│                                                                                                    │
+│             To advance to the next level accumulate 10 times the level XP, or reach a milestone in │
+│             the story. Gain 1 XP every time a successful check's DC is at least equal to 10+BONUS. │
 │                                                                                                    │
 │                                                                                                    │
 │                                                                                                    │
@@ -67,14 +66,16 @@ ROLL:      └──────┴──────┘                       D
 │                                                                                                    │
 │                                                                                                    │
 │                                                                                                    │
-│ ITEM:       + BONUS, ABILITIES / EFFECTS                                                           │   Max 3*
+│ ITEM:       + ATR, ABILITIES / EFFECTS                                                             │   Max 3*
 │             Normal items have only bonuses. Magical items also have special abilities and effects. │
-│             Distribute abilities and effects liberally. They make the world interesting.           │
 │                                                                                                    │
-│ GOLD:       10s: 1G │     1G             5G             10G            +G                          │
-│                     │ Mundane gear  Superior gear  Enchanted gear  Exotic gear                     │
-│ LOOT:       1-100 s │  Supplies       Potions       Ingredients      Magic                         │
+│ GOLD:       10s: 1G     │         1G             5G             10G            +G                  │
+│                         │     Mundane gear  Superior gear  Enchanted gear  Exotic gear             │
+│ LOOT:       1-100 s     │      Supplies       Potions       Ingredients      Magic                 │
 │             One gold standard. If items should be scarcer, consider raising exchange to 100s:1G.   │
+│                                                                                                    │
+│ SUPPLY:     Supply is a basic resource representing adventuring gear. Can be used to increase      │
+│             comfort and recuperation potential in camp or be used as a resource wildcard.          │
 
 
 Hard: Can exceed max
