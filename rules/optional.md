@@ -1,6 +1,6 @@
 #### Character creation
 Pick 3 aspects that the character is good at. The character will roll with advantage on any checks that fall under one of his aspects.  
-You can substitute 1 aspect for a profession.
+You can substitute 1 aspect for a profession and/or another for an innate ability.
 
 #### Profession
 `10 + Profession BONUS >= DC  ──>  Profession LVL`  
